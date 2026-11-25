@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://urosfilipovicit2026.github.io/sitemap.xml
+Sitemap: https://uros-sudo.github.io/sitemap.xml
