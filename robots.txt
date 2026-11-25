@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://urosfilipovicit2026.github.io/sitemap.xml
